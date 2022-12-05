@@ -31,7 +31,7 @@ navmenu = [
 ]
 
 lang_skills = [("english", 100), ("Russian", 70), ("SPANISH", 30), ("FRENCH", 30), ("JAPANESE", 20)]
-comp_skills = [("PHOTOSHOP", 80), ("HTML", 70), ("PYTHON", 50), ("WORDPRESS/CMS", 50), ("CSS", 30)]
+comp_skills = [("PHOTOSHOP", 80), ("HTML", 70), ("PYTHON", 60), ("WORDPRESS/CMS", 50), ("DOCKER", 40), ("CSS", 30)]
 
 projects = [  # Title, img, url, cat
     (mirco["title"], "mirco.png", mirco["internal_url"], mirco["cat"]),
